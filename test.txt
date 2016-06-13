@@ -1,2 +1,6 @@
 Sample file added to learn git functionality
 This is on master
+
+These lines are added in test for readability.
+Lets test a lot of stuff
+

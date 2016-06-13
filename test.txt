@@ -1,0 +1,2 @@
+Sample file added to learn git functionality
+This is on master
